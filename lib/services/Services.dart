@@ -5,3 +5,4 @@ import 'package:froti/shared/shared.dart';
 import 'package:http/http.dart' as http;
 
 part 'PlantServices.dart';
+part 'SuggestionServices.dart';

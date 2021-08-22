@@ -13,4 +13,6 @@ import 'package:flutter_widget_from_html/flutter_widget_from_html.dart';
 part 'wrapper.dart';
 part 'main_page.dart';
 part 'splash_page.dart';
+part 'index_page.dart';
 part 'detail_page.dart';
+part 'suggestion_page.dart';

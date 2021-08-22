@@ -2,7 +2,7 @@ part of 'Services.dart';
 
 class PlantServices {
   static Future<List<Plant>> getPlantData({http.Client? client}) async {
-    String url = serviceUrl + "/Froti/Api/api_tumbuhan.php";
+    String url = serviceUrl + "Froti/Api/api_tumbuhan.php";
     client ??= http.Client();
     var response = await client.get(Uri.parse(url));
     if (response.statusCode != 200) {

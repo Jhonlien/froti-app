@@ -5,3 +5,6 @@ TextStyle whiteTextFont = GoogleFonts.sourceSansPro()
 
 TextStyle blackTextFont = GoogleFonts.sourceSansPro()
     .copyWith(color: Colors.black54, fontWeight: FontWeight.w500);
+
+TextStyle mainTextFont = GoogleFonts.sourceSansPro()
+    .copyWith(color: mainColor, fontWeight: FontWeight.w500);

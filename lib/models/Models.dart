@@ -3,3 +3,4 @@ import 'package:flutter/material.dart';
 
 part 'Plant.dart';
 part 'PlantDetail.dart';
+part 'Suggestion.dart';
