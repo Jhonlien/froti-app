@@ -60,7 +60,7 @@ class _MainPageState extends State<MainPage> {
             },
             items: [
               BottomNavigationBarItem(
-                  label: "Artikel",
+                  label: "Tumbuhan",
                   icon: Container(
                     margin: EdgeInsets.only(bottom: 16),
                     height: 20,
